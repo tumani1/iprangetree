@@ -1,4 +1,4 @@
-module github.com/demdxx/iprangetree
+module github.com/tumani1/iprangetree
 
 go 1.15
 
